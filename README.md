@@ -21,7 +21,7 @@ A powerful flight search application that combines Streamlit, LangChain, and Bro
 
 1. Clone the repository:
 ```bash
-git clone <>
+git clone <https://github.com/Somu878/sky-scout>
 cd flight-finder_pro
 ```
 
@@ -99,7 +99,3 @@ The application includes comprehensive error handling for:
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-[Your chosen license] 
