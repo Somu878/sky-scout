@@ -1,0 +1,8 @@
+langchain 
+langchain-community
+streamlit
+browserbase
+ollama
+playwright
+pandas
+bs4

@@ -1,0 +1,7 @@
+__pycache__
+.env
+.venv
+.streamlit
+.streamlit/secrets.toml
+.streamlit/secrets.toml
+flightfinder_env
